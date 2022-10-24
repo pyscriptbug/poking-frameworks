@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "lerna run dev --parallel --stream",
+    "dev:svelte": "lerna run dev --scope svelte --stream",
+    "dev:remix": "lerna run dev --scope remix --stream",
+    "dev:nextjs": "lerna run dev --scope nextjs --stream",
     "test": "lerna run test"
   },
   "repository": {
