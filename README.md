@@ -2,6 +2,8 @@
 
 Poking around with some Javascript frameworks.
 
+Run `yarn` or `npm install` to install the dependencies.
+
 ## Running
 
 Run every project with the following command
